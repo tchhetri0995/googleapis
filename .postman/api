@@ -9,6 +9,7 @@ rootDirectory = postman/collections
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"spec3.sdk.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
